@@ -1,37 +1,47 @@
 # Portfolio
-# portfolio
 My Data Science Portfolio
-# Abdelrhman Khaled
-**Data Scientist & AI Engineer**  
-[GitHub](https://github.com/3BDO145) | [LinkedIn](https://www.linkedin.com/in/abdelrhman-khaled-ak) | [Email](abdelrhmannkhaledd00@gmail.com)
+# Mazen Hesham
+**Data Scientist & Machine Learning Engineer**  
+[GitHub](https://github.com/mazennh) | [LinkedIn](https://www.linkedin.com/in/mazenh-elhusseiny/) | [Email](mazenh.elhusseiny@gmail.com)
 ---
 ![brain + circuit v_2](https://github.com/user-attachments/assets/db5e7b40-9dbc-4609-9a8f-75ce7823ba1b)
 ## About Me
-My name is **Abdelrhman Khaled**, and I’m a **senior Computer Science student at Helwan University**, specializing in **Artificial Intelligence**. I have a strong foundation in **mathematics, statistics, machine learning, and deep learning**.
-With a deep passion for **data science**, I have completed multiple courses in the field, along with a **problem-solving course** to refine my analytical thinking and advance my career.
-I have worked extensively with both **numerical and image-based datasets**, developing tailored models to meet specific project needs. Additionally, I prioritize **data visualization** to effectively communicate insights and ensure clear understanding for stakeholders.
+Aspiring AI Engineer with a strong desire to build a solid 
+foundation in data science and develop expertise in 
+extracting meaningful insights from data. Proficient in 
+programming languages such as Python, Java, and C++, with 
+hands-on experience in building innovative projects. 
+Passionate about leveraging advanced data-driven 
+techniques to create impactful AI solutions and contribute 
+to the rapidly evolving field of artificial intelligence.
 ---
 ## Technical Skills
 - **Programming Languages:** Python, C/C++, SQL
-- **Data Analysis & Processing:** Pandas, NumPy, Scikit-learn
-- **Machine Learning & Deep Learning:** TensorFlow, Keras, Neural Networks (ANN, CNN)
-- **Data Visualization:** Matplotlib, Seaborn, Power BI
-- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Data Analysis & Processing:** Pandas, NumPy, Scikit-learn,scipy
+- **Data Visualization:** Matplotlib, Seaborn
+- **Databases:** MySQL, MongoDB
 - **Tools & Platforms:** Git, Jupyter Notebooks, Google Colab
 - **AI & ML Techniques:** Classification, Regression, Clustering, Feature Engineering
 - **Soft Skills:** Problem Solving, Communication, Teamwork, Time Management
 ---
 ## Experience
-### AI/ML Intern – Instant Software Solution (January 2024 – May 2024)
+### Depi (2024 – Now)
 - Analyzed diverse datasets and applied ML models including regression, classification, and clustering.
 - Developed end-to-end ML pipelines and visualized insights using Python libraries like Scikit-learn and Matplotlib.
 - Strengthened problem-solving skills through real-world AI projects.
 ---
 ## Projects
-### 1. [Sales Data Analysis](https://github.com/3BDO145/sales-data-analysis)
-📌 **Description:** Analyzed sales data to identify trends, customer preferences, and peak sales periods.  
-🛠 **Tools Used:** Python, Pandas, Matplotlib  
-📊 **Outcome:** Extracted insights on top-selling products and seasonal sales trends to enhance business strategies.
+### 1. [Egypt House Pricing](https://github.com/mazennh/Egypt_House_Price_Prediction)
+📌 **Description:**  Developed a predictive model to estimate house 
+prices in Egypt based on various factors such as location, size, 
+amenities, and market trends. The project aimed to provide
+accurate price predictionsto help buyers and real estate 
+agents make informed decisions.  
+🛠 **Tools Used:** Python, Pandas, NumPy, Scikit-learn, 
+Jupyter Notebook, Matplotlib, and Seaborn  
+📊 **Outcome:**  The project enhanced the accuracy of price
+estimations by [insert percentage, if applicable], contributing 
+to more data-driven decisions in the real estate market.
 ### 2. [Image Classification using Deep Learning](https://github.com/3BDO145/image-classification)
 📌 **Description:** Developed a **CNN-based model** for image classification to distinguish between different categories of images.  
 🛠 **Tools Used:** Python, TensorFlow, Keras  
