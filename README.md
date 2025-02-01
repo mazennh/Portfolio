@@ -3,7 +3,7 @@
 **Data Scientist & Machine Learning Engineer**  
 [GitHub](https://github.com/mazennh) | [LinkedIn](https://www.linkedin.com/in/mazenh-elhusseiny/) | [Email](mazenh.elhusseiny@gmail.com)
 ---
-![Your Image Description](photo.jpeg)
+![Your Image Description](WhatsApp Image 2025-01-14 at 3.08.39 PM.jpeg)
 ## About Me
 Aspiring AI Engineer with a strong desire to build a solid 
 foundation in data science and develop expertise in 
