@@ -1,10 +1,9 @@
 # Portfolio
-My Data Science Portfolio
 # Mazen Hesham
 **Data Scientist & Machine Learning Engineer**  
 [GitHub](https://github.com/mazennh) | [LinkedIn](https://www.linkedin.com/in/mazenh-elhusseiny/) | [Email](mazenh.elhusseiny@gmail.com)
 ---
-![brain + circuit v_2](https://github.com/user-attachments/assets/db5e7b40-9dbc-4609-9a8f-75ce7823ba1b)
+![Your Image Description](relative/path/to/image.png)
 ## About Me
 Aspiring AI Engineer with a strong desire to build a solid 
 foundation in data science and develop expertise in 
@@ -25,44 +24,63 @@ to the rapidly evolving field of artificial intelligence.
 - **Soft Skills:** Problem Solving, Communication, Teamwork, Time Management
 ---
 ## Experience
-### Depi (2024 – Now)
+### Depi (Digital Egypt Pioneers Initiative) InternShip (2024 – Present)
 - Analyzed diverse datasets and applied ML models including regression, classification, and clustering.
+- Data preparation using Python libraries like Pandas, Scipy and Scikit-learn
 - Developed end-to-end ML pipelines and visualized insights using Python libraries like Scikit-learn and Matplotlib.
 - Strengthened problem-solving skills through real-world AI projects.
 ---
 ## Projects
 ### 1. [Egypt House Pricing](https://github.com/mazennh/Egypt_House_Price_Prediction)
-📌 **Description:**  Developed a predictive model to estimate house 
+● **Description:**  Developed a predictive model to estimate house 
 prices in Egypt based on various factors such as location, size, 
 amenities, and market trends. The project aimed to provide
 accurate price predictionsto help buyers and real estate 
 agents make informed decisions.  
-🛠 **Tools Used:** Python, Pandas, NumPy, Scikit-learn, 
-Jupyter Notebook, Matplotlib, and Seaborn  
-📊 **Outcome:**  The project enhanced the accuracy of price
+
+● **Tools Used:** Python, Pandas, NumPy, Scikit-learn, 
+Jupyter Notebook, Matplotlib, and Seaborn 
+
+● **Outcome:**  The project enhanced the accuracy of price
 estimations by [insert percentage, if applicable], contributing 
 to more data-driven decisions in the real estate market.
-### 2. [Image Classification using Deep Learning](https://github.com/3BDO145/image-classification)
-📌 **Description:** Developed a **CNN-based model** for image classification to distinguish between different categories of images.  
-🛠 **Tools Used:** Python, TensorFlow, Keras  
-📊 **Outcome:** Achieved a classification accuracy of **92%**, showcasing strong model performance.
-### 3. [Data Engineering Pipeline](https://github.com/3BDO145/data-engineering-project)
-📌 **Description:** Built an **ETL pipeline** to extract, transform, and load large datasets efficiently.  
-🛠 **Tools Used:** Python, SQL, Apache Spark  
-📊 **Outcome:** Successfully automated data processing, reducing processing time and improving data consistency.
-### 4. [Pima Indians Diabetes Prediction](https://github.com/3BDO145/Pima-Indians-Diabetes-ANN-Decision-Tree)
-📌 **Description:** Built an **ANN and Decision Tree model** to predict diabetes risk using the **Pima Indians Diabetes dataset**.  
-🛠 **Tools Used:** Python, TensorFlow, Scikit-learn  
-📊 **Outcome:** Improved predictive accuracy by optimizing feature selection and model hyperparameters.
+
+### 2. [Linear Regression Implementation with Gradient Descent and Early Stopping](https://github.com/mazennh/Gradient-Descent)
+
+● **Description:**  Independently implemented Softmax Regression 
+with gradient descent optimization and early stopping to 
+solve multi-class classification problems, enhancing model 
+performance and preventing overfitting.  
+
+● **Tools Used:**  Python, NumPy, Scikit-learn, Matplotlib, 
+Jupyter Notebook. 
+
+● **Outcome:** Successfully applied a robust Softmax Regression 
+model with gradient descent and early stopping to the Iris 
+dataset, demonstrating expertise in optimization techniques 
+and regularization methods for machine learning
+
+### 3. [Softmax Regression Implementation](https://github.com/mazennh/Gradient-Descent)
+
+● **Description:** Developed a Linear Regression model from 
+scratch using gradient descent optimization with early 
+stopping, focusing on enhancing the model's performance 
+and preventing overfitting. 
+
+● **Tools Used:** Python, NumPy, Matplotlib, Scikit-learn, 
+Jupyter Notebook.  
+
+● **Outcome:** Successfully implemented a Linear Regression 
+model with gradient descent and early stopping, deepening 
+my knowledge of optimization techniques and enhancing my 
+ability to build robust, generalizable models.
+
 ---
 ## Certifications & Courses
 - AI & Data Science - Data scientist( Digital Egypt Pioneers Initiative) (October 2024 – Present)
 - Associate Data Scientist in Python – DataCamp (September 2024 – Present)
-- AI Diploma – Impact in Zewail City (September 2023 – November 2023)
-- **AI Diploma** – Instant Software Solutions (September 2022 – March 2023)
-- **Problem Solving Course** – Coach Academy (April 2023 – September 2023)
 ---
 ## Contact Information
-📩 **Email:** [abdelrhmannkhaledd00@gmail.com](mailto\:abdelrhmannkhaledd00@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/abdelrhman-khaled-ak](https://www.linkedin.com/in/abdelrhman-khaled-ak)  
-💻 **GitHub:** [github.com/3BDO145](https://github.com/3BDO145)
+📩 **Email:** [mazenh.elhusseiny@gmail.com](mailto\:mazenh.elhusseiny@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/mazenh-elhusseiny](https://www.linkedin.com/in/mazenh-elhusseiny/)  
+💻 **GitHub:** [github.com/mazennh](https://github.com/mazennh)
