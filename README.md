@@ -3,8 +3,10 @@
 **Data Scientist & Machine Learning Engineer**  
 [GitHub](https://github.com/mazennh) | [LinkedIn](https://www.linkedin.com/in/mazenh-elhusseiny/) | [Email](mazenh.elhusseiny@gmail.com)
 ---
-![Your Image Description](WhatsApp Image 2025-01-14 at 3.08.39 PM.jpeg)
+![ok](https://github.com/user-attachments/assets/7c74a7d3-7026-4c9f-8edb-03d3ce40d8fb)
+
 ## About Me
+
 Aspiring AI Engineer with a strong desire to build a solid 
 foundation in data science and develop expertise in 
 extracting meaningful insights from data. Proficient in 
@@ -32,6 +34,8 @@ to the rapidly evolving field of artificial intelligence.
 - Strengthened problem-solving skills through real-world AI projects.
 ---
 ## Projects
+
+
 ### 1. [Egypt House Pricing](https://github.com/mazennh/Egypt_House_Price_Prediction)
 ● **Description:**  Developed a predictive model to estimate house 
 prices in Egypt based on various factors such as location, size, 
