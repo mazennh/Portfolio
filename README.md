@@ -12,7 +12,6 @@ foundation in data science and develop expertise in
 extracting meaningful insights from data. Proficient in 
 programming languages such as Python, Java, and C++, with 
 hands-on experience in building innovative projects. 
-
 Passionate about leveraging advanced data-driven 
 techniques to create impactful AI solutions and contribute 
 to the rapidly evolving field of artificial intelligence.
